@@ -3,7 +3,7 @@
 My name is __Ignacio López García__ , I'm an electronic engineer ⚡ and software developer from Argentina. Welcome to my profile!
 
 - About me: I'm an enthusiastic learner, passionate about challenges and new technologies. I have experience in developing software for embedded systems in C, as well as Python for AI/ML applications and data analysis, MATLAB for simulation and signal processing, and C# for Unity game development.
-- Skills: __Python__ , __Django__ , __JS__ , __HTML/CSS__ , __SQL__ , __C/C++__ , some __C#__ and __REACT__ ✔️
+- Skills: __Python__ , __Django__ , __JS__ , __HTML/CSS__ , __SQL__ , __C/C++__ , __C#__ and __REACT__ ✔️
 
 <hr>
 
