@@ -4,8 +4,9 @@ My name is __Ignacio López García__ , I'm an electronic engineer ⚡ and softw
 
 - About me: I'm an enthusiastic learner, passionate about challenges and new technologies. I have experience in developing software for embedded systems in C, as well as Python for AI/ML applications and data analysis, MATLAB for simulation and signal processing, and C# for Unity game development.
 - Skills: __Python__ , __Django__ , __JS__ , __HTML/CSS__ , __SQL__ , __C/C++__ , __C#__ and __REACT__ ✔️
-
 <hr>
+
+🎮 Games: I’ve published a Unity game as part of Unity Game Jam on itch.io — https://callme-chu.itch.io/frozen-time
 
 <h3 align="left"> 📫 Do you wish to contact me?: </h3>
 <p align="left">
